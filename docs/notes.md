@@ -10,3 +10,4 @@ Notes and usage details for mobile-sim-streamer.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
